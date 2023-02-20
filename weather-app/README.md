@@ -14,3 +14,12 @@ Steps:
 7. Run ./vendor/bin/sail artisan db:seed
 8. Run ./vendor/bin/sail npm install && npm run dev
 9. Visit localhost and the weather-app should appear
+
+
+If I had more time on this project I would:
+- Add feature tests to improve the code reliability
+- Use Vuex and make use of state management
+- Create a nicer looking UI with a better UX
+- Add a map that shows the location of the city you have selected to run the report on
+- Make use of caching
+- Would also be cool to have a job that runs via a command every few minutes on a queue and fetches the cities current weather and stores it in the Database under a new table
