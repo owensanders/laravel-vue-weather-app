@@ -1,0 +1,69 @@
+[2023-02-20 19:55:26] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 19:58:26] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 19:58:34] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:06:30] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:06:36] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:06:51] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:08:23] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:09:03] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:10:53] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:18:22] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:19:23] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:19:51] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:20:07] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:20:34] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:23:02] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:23:29] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:24:14] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:25:14] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:25:33] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:25:51] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:26:17] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:26:42] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
+[2023-02-20 20:27:39] local.ERROR: Client error: `GET https://api.openweathermap.org/data/2.5/weather?q=Test&appid=858f15fed9292cbe25c341a754c55e45&units=metric` resulted in a `404 Not Found` response:
+{"cod":"404","message":"city not found"}
+  
